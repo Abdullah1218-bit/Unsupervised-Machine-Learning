@@ -1,5 +1,6 @@
 ✅ Implemented Algorithms
-🔹 DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+
+🔹 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) 
 Applied on make_blobs dataset
 
 Successfully identified clusters of varying density

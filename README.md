@@ -24,7 +24,15 @@ Preserved key variance and structure of the dataset
 K-Means performs well on spherical clusters but fails on non-spherical data like make_moons. This highlights the importance of choosing the right clustering algorithm based on the shape and distribution of the data.
 
 📊 Visual Comparison
+
+
 📌 Non-Spherical Dataset with K-Means Clustering
+
+
 <img width="587" height="432" alt="K-Means Limitations" src="https://github.com/user-attachments/assets/19456a1c-20e2-416d-b831-d68dc3e243b4" />
+
+
 📌 Non-Spherical Dataset with DBSCAN
+
+
 <img width="587" height="432" alt="DBSCAN Strength" src="https://github.com/user-attachments/assets/35781448-b905-47f8-b846-dc9525225fe9" />
